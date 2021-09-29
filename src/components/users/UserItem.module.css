@@ -1,0 +1,13 @@
+.user-item {
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.user-item p {
+  margin: 0;
+  font-weight: 700;
+}
+
+.user-item p:not(:last-child) {
+  margin-bottom: 0.5rem;
+}

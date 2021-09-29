@@ -1,0 +1,17 @@
+.button {
+  padding: 0.6rem 1rem;
+  margin-top: 0.5rem;
+  background-color: rgb(230, 167, 50);
+  color: #fff;
+  border: none;
+  border-radius: 0.4rem;
+  font-weight: 600;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.button:active {
+  transform: translateY(1px);
+}
